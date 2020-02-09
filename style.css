@@ -31,17 +31,14 @@ a:hover {
 	color: black;
 }
 
-#MOI {
-	width: 80px;
+#profile-picture {
+	width: 120px;
 }
 
 .img-circle {
 	border-radius: 50%;
 }
 
-.shadowed {
-	box-shadow: 1px 1px 4px black;
-}
 
 .container {
 	width: 700px;
